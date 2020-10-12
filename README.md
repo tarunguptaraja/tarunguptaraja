@@ -9,8 +9,8 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, Computer programming.
 - 💼 &nbsp; Android developer and Comptetive Coder.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
+- 🌱 &nbsp; Enthusiast in Web and Mobile Application Development.
+- ✍️ &nbsp; Poster Designing or Video Editing freshs my mind.
 - ☕ &nbsp; I belive, a perfect cup of cold coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
@@ -36,8 +36,11 @@
 <p align="center">
 
 &nbsp; <a href="https://www.instagram.com/thetarunguptaraja/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+
 &nbsp; <a href="https://www.linkedin.com/in/tarun-gupta-9932951a5" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+
 &nbsp; <a href="https://twitter.com/rajatarungupta" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>
+
 &nbsp; <a href="mailto:the.tarun.gupta.raja@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
   
 </p>
