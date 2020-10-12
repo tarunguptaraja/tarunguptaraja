@@ -1,6 +1,6 @@
 
         
-<h2> Hey there! myself Tarun Gupta. <img src="Hi.gif" width="25"></h2>
+<h2> Hey there! Myself Tarun Gupta. <img src="Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
