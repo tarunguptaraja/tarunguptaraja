@@ -32,7 +32,7 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/tarunguptaraja)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunguptaraja&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/tarunguptaraja/github-readme-stats)<br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=tarunguptaraja)](https://github.com/ryo-ma/github-profile-trophy)<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=tarunguptaraja&theme=dracula)](https://github.com/tarunguptaraja/github-profile-trophy)<br>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tarunguptaraja)
 
